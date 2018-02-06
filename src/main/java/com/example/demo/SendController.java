@@ -14,8 +14,8 @@ import org.bouncycastle.jce.provider.BouncyCastleProvider;
 
 @RestController
 public class SendController {
-    private static final String PUBLIC_KEY = "BGgL7I82SAQM78oyGwaJdrQFhVfZqL9h4Y18BLtgJQ-9pSGXwxqAWQudqmcv41RcWgk1ssUeItv4-8khxbhYveM=";
-    private static final String PRIVATE_KEY = "ANlfcVVFB4JiMYcI74_h9h04QZ1Ks96AyEa1yrMgDwn3";
+    private static final String PUBLIC_KEY = "BAPGG2IY3Vn48d_H8QNuVLRErkBI0L7oDOOCAMUBqYMTMTzukaIAuB5OOcmkdeRICcyQocEwD-oxVc81YXXZPRY";
+    private static final String PRIVATE_KEY = "A7xDGuxMZ4ufflcAhBW23xpoWZNOLwM4Rw2wXjP0y6M";
     private static final String SUBJECT = "Foobarbaz";
     private static final String PAYLOAD = "My fancy message";
 
